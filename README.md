@@ -10,7 +10,7 @@ Provided is a compilation of writing projects I've done, including both school a
 
 As part of an USC Marshall advanced writing course, I identified and substantiated environmental sustainability as a major business trend in the context of the E-commerce sector. Since this class catered to writing in business context, this piece is set up to mimic an actual business scenario -- I'm writing in the role of an analyst at a major consulting firm providing a corporate client (Wanderlust + Co) with information that could impact long-range internal and external planning in the E-commerce sector in the context of green trends. My analysis is adapted to the defined target audience (CEO) and their motives, with an understanding of how the reader's business is being affected by the global eco trend.
 
-### Corporate Social Activism
+### Corporate Social Activism Strategy
 
 * Context: **2nd of 3** projects for **Advanced Writing at USC Marshall School of Business**
 
